@@ -29,15 +29,7 @@
     .menu-nav {
         display: none;
     }
-    .left-side {
-        width: 20%;
-    }
-    .main-side {
-        width: 70%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
+ 
    
 
 } /*md*/
@@ -45,6 +37,9 @@
 @media (max-width: 1024px){
     .menu-nav img{
         display: none;
+    }
+    .left-side {
+        width: 30%;
     }
 } /*lg*/
 
