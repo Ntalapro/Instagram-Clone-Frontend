@@ -41,6 +41,9 @@
     .left-side {
         width: 30%;
     }
+    .profile-div{
+        display: none;
+    }
 } /*lg*/
 
 @media (max-width: 1280px){} /*xl*/
